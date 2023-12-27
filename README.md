@@ -9,8 +9,6 @@ Key | Action|
 ------------- | -------------
 <kbd>→</kbd> | Move right
 <kbd>←</kbd> | Move left
-<kbd>W</kbd> | Camera up
-<kbd>S</kbd> | Camera Down
 <kbd>↑</kbd>  | Move up
 <kbd>↓</kbd>  | Move down
 
